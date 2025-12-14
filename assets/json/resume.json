@@ -13,8 +13,8 @@
   },
   "education": [
     {
-      "institution": "Inria de Saclay",
-      "area": "Machine Learning",
+      "institution": "Inria Saclay",
+      "area": "PhD Student in Machine Learning, supervised by Gaël Varoquaux",
       "studyType": "PhD",
       "startDate": "2023-01-01",
       "endDate": "2026-03-31"
