@@ -1,10 +1,10 @@
 metadata:
-  last_updated: '2025-12-17'
+  last_updated: '2025-12-22'
 papers:
   nrYetHgAAAAJ:2osOgNQ5qMEC:
     citations: 0
     title: Knowledge-Rich Embeddings for Tabular Learning
-    year: Unknown Year
+    year: '2025'
   nrYetHgAAAAJ:9yKSN-GCB0IC:
     citations: 0
     title: Scalable Feature Learning on Huge Knowledge Graphs for Downstream Machine Learning
