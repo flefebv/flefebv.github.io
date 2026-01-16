@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2025-12-22'
+  last_updated: '2026-01-16'
 papers:
   nrYetHgAAAAJ:2osOgNQ5qMEC:
     citations: 0
@@ -10,7 +10,7 @@ papers:
     title: Scalable Feature Learning on Huge Knowledge Graphs for Downstream Machine Learning
     year: '2025'
   nrYetHgAAAAJ:d1gkVwhDpl0C:
-    citations: 4
+    citations: 5
     title: 'Table Foundation Models: on knowledge pre-training for tabular learning'
     year: '2025'
   nrYetHgAAAAJ:u5HHmVD_uO8C:
