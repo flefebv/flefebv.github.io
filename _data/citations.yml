@@ -1,16 +1,20 @@
 metadata:
-  last_updated: '2026-02-23'
+  last_updated: '2026-03-06'
 papers:
   nrYetHgAAAAJ:2osOgNQ5qMEC:
     citations: 0
     title: Knowledge-Rich Embeddings for Tabular Learning
     year: '2025'
   nrYetHgAAAAJ:9yKSN-GCB0IC:
-    citations: 0
+    citations: 1
     title: Scalable Feature Learning on Huge Knowledge Graphs for Downstream Machine Learning
     year: '2025'
+  nrYetHgAAAAJ:UeHWp8X0CEIC:
+    citations: 0
+    title: 'Tabular Learning with Background Information: LLMs, Knowledge Graphs, or Both?'
+    year: Unknown Year
   nrYetHgAAAAJ:d1gkVwhDpl0C:
-    citations: 8
+    citations: 7
     title: 'Table foundation models: on knowledge pre-training for tabular learning'
     year: '2025'
   nrYetHgAAAAJ:u5HHmVD_uO8C:
