@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-03-11'
+  last_updated: '2026-05-08'
 papers:
   nrYetHgAAAAJ:2osOgNQ5qMEC:
     citations: 0
@@ -14,10 +14,10 @@ papers:
     title: 'Tabular Learning with Background Information: LLMs, Knowledge Graphs, or Both?'
     year: Unknown Year
   nrYetHgAAAAJ:d1gkVwhDpl0C:
-    citations: 8
+    citations: 11
     title: 'Table foundation models: on knowledge pre-training for tabular learning'
     year: '2025'
   nrYetHgAAAAJ:u5HHmVD_uO8C:
     citations: 17
     title: 'Retrieve, merge, predict: Augmenting tables with data lakes'
-    year: '2024'
+    year: '2025'
