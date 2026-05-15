@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-05-08'
+  last_updated: '2026-05-15'
 papers:
   nrYetHgAAAAJ:2osOgNQ5qMEC:
     citations: 0
@@ -8,16 +8,16 @@ papers:
   nrYetHgAAAAJ:9yKSN-GCB0IC:
     citations: 1
     title: Scalable Feature Learning on Huge Knowledge Graphs for Downstream Machine Learning
-    year: '2025'
+    year: '2026'
   nrYetHgAAAAJ:UeHWp8X0CEIC:
     citations: 0
     title: 'Tabular Learning with Background Information: LLMs, Knowledge Graphs, or Both?'
     year: Unknown Year
   nrYetHgAAAAJ:d1gkVwhDpl0C:
-    citations: 11
+    citations: 12
     title: 'Table foundation models: on knowledge pre-training for tabular learning'
     year: '2025'
   nrYetHgAAAAJ:u5HHmVD_uO8C:
-    citations: 17
+    citations: 18
     title: 'Retrieve, merge, predict: Augmenting tables with data lakes'
     year: '2025'
