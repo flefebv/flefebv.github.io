@@ -17,7 +17,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I am a PhD Student in the SODA team at Inria Saclay under the supervision of [Gaël Varoquaux](https://gael-varoquaux.info/), since January 2023.
+I am a Postdoc researcher in the SODA team at Inria Saclay working on tabular learning. I completed my PhD under the supervision of [Gaël Varoquaux](https://gael-varoquaux.info/).
 
 My research focuses on developing methods to integrate external knowledge into tabular learning. Prior to this, I completed a research internship within the same team, working on large-scale knowledge-graph embedding. I hold degrees from the [MVA research master](https://www.master-mva.com/) and [Ecole Polytechnique](https://www.polytechnique.edu/).
 
