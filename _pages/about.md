@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: PhD Student in Machine Learning at <a href='https://team.inria.fr/soda/'>Inria Saclay (SODA team)</a>.
+subtitle: Postdoc researcher in Tabular Learning at <a href='https://team.inria.fr/soda/'>Inria Saclay (SODA team)</a>.
 
 profile:
   align: right
