@@ -1,30 +1,14 @@
 metadata:
-  last_updated: '2026-07-27'
+  last_updated: '2026-08-03'
 papers:
-  nrYetHgAAAAJ:0EnyYjriUFMC:
-    citations: 6
-    title: Influence of marker weights optimization on scapular kinematics estimated with a multibody kinematic optimization
-    year: '2023'
   nrYetHgAAAAJ:2osOgNQ5qMEC:
     citations: 1
     title: Knowledge-Rich Embeddings for Tabular Learning
     year: '2025'
-  nrYetHgAAAAJ:5nxA0vEk-isC:
-    citations: 0
-    title: Effect of Camera Position on the Robustness of a 2D Markerless Motion Capture System for Assessing Shoulder Kinematics
-    year: '2026'
   nrYetHgAAAAJ:9yKSN-GCB0IC:
     citations: 2
     title: Scalable feature learning on huge knowledge graphs for downstream machine learning
     year: '2026'
-  nrYetHgAAAAJ:LkGwnXOMwfcC:
-    citations: 1
-    title: Automatic identification of shoulder landmarks with a single camera in healthy participants
-    year: '2026'
-  nrYetHgAAAAJ:Se3iqnhoufwC:
-    citations: 0
-    title: Musculoskeletal modelling analysis of the lower limb during running on unstable surface
-    year: '2021'
   nrYetHgAAAAJ:Tyk-4Ss8FVUC:
     citations: 0
     title: Bringing external knowledge to tabular learning
@@ -33,55 +17,19 @@ papers:
     citations: 0
     title: 'Tabular Learning with Background Information: LLMs, Knowledge Graphs, or Both?'
     year: Unknown Year
-  nrYetHgAAAAJ:UebtZRa9Y70C:
-    citations: 0
-    title: Comparative evaluation of inpainted and marker-visible images using a deep neural network
-    year: '2025'
-  nrYetHgAAAAJ:W7OEmFMy1HYC:
-    citations: 8
-    title: The effects of unstable surface conditions on lower limb biomechanical parameters during running
-    year: '2022'
-  nrYetHgAAAAJ:WF5omc3nYNoC:
-    citations: 0
-    title: The effects of unstable surface conditions and shoe types on muscle forces and activation during running
-    year: '2020'
   nrYetHgAAAAJ:Y0pCki6q_DkC:
     citations: 0
     title: "Post-doc proposal\u2013Tabular Foundation Models: including broader context"
     year: Unknown Year
-  nrYetHgAAAAJ:YsMSGLbcyi4C:
-    citations: 0
-    title: Automatic identification of shoulder landmarks with a single camera
-    year: '2025'
-  nrYetHgAAAAJ:_FxGoFyzp5QC:
-    citations: 1
-    title: "Analyse cin\xE9matique de l'\xE9paule et du membre sup\xE9rieur par capture de mouvement avec et sans marqueurs"
-    year: '2024'
   nrYetHgAAAAJ:d1gkVwhDpl0C:
     citations: 17
     title: 'Table foundation models: on knowledge pre-training for tabular learning'
     year: '2025'
-  nrYetHgAAAAJ:eQOLeE2rZwMC:
-    citations: 1
-    title: Assessment of mechanical tests to characterize 3D kinematic behavior of running sport shoes
-    year: '2021'
-  nrYetHgAAAAJ:hqOjcs7Dif8C:
-    citations: 2
-    title: Three-dimensional markerless pose estimation for anatomical landmarks of the shoulder and upper limb
-    year: '2025'
-  nrYetHgAAAAJ:roLk4NBRz8UC:
-    citations: 11
-    title: 'Analysis of the tennis racket vibrations during forehand drives: Selection of the mother wavelet'
-    year: '2017'
   nrYetHgAAAAJ:u5HHmVD_uO8C:
-    citations: 20
+    citations: 21
     title: 'Retrieve, merge, predict: Augmenting tables with data lakes'
     year: '2025'
-  nrYetHgAAAAJ:ufrVoPGSRksC:
-    citations: 4
-    title: Is an ellipsoid surface suitable to model the scapulothoracic sliding plane?
-    year: '2024'
   nrYetHgAAAAJ:zYLM7Y9cAGgC:
-    citations: 0
+    citations: 1
     title: 'STRABLE: Benchmarking Tabular Machine Learning with Strings'
     year: '2026'
