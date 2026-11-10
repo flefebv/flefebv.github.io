@@ -1,9 +1,9 @@
 {
   "basics": {
     "name": "Félix Lefebvre",
-    "label": "PhD Student in Machine Learning",
+    "label": "Postdoctoral researcher at CWI",
     "image": "",
-    "email": "felix.lefebvre@inria.fr",
+    "email": "felix.lefebvre@cwi.nl",
     "profiles": [
       {
         "network": "Google Scholar",
@@ -11,6 +11,24 @@
       }
     ]
   },
+  "work": [
+    {
+      "position": "Postdoctoral researcher",
+      "name": "CWI, Table Representation Learning (TRL) lab",
+      "url": "https://trl-lab.github.io/",
+      "location": "Amsterdam, Netherlands",
+      "startDate": "2026-11-01",
+      "summary": "Working on multi-table and multi-modal learning."
+    },
+    {
+      "position": "Postdoctoral researcher",
+      "name": "Inria Saclay, SODA team",
+      "url": "https://team.inria.fr/soda/",
+      "startDate": "2026-04-01",
+      "endDate": "2026-10-31",
+      "summary": "Working on tabular learning with strings and knowledge integration."
+    }
+  ],
   "education": [
     {
       "institution": "Inria Saclay",
